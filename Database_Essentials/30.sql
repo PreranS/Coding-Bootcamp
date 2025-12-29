@@ -1,0 +1,3 @@
+SELECT *
+FROM bloodtest
+WHERE date BETWEEN '2015-01-01' AND '2019-01-31';
